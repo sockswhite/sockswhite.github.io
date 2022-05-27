@@ -3,7 +3,7 @@
   <entry>
     <title>Golang基础</title>
     <url>/2022/05/22/Golang%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="变量定义"><a href="#变量定义" class="headerlink" title="变量定义"></a>变量定义</h3><ol>
+    <content><![CDATA[<h3 id="变量定义"><a href="#变量定义" class="headerlink" title="变量定义"></a>变量定义</h3><ol>
 <li><p>变量一旦定义就有<strong>默认值</strong></p>
 <figure class="highlight golang"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">variableZeroValue</span><span class="params">()</span></span> &#123;</span><br><span class="line">	<span class="keyword">var</span> a <span class="type">int</span></span><br><span class="line">	<span class="keyword">var</span> b <span class="type">string</span></span><br><span class="line">	<span class="comment">//打印空字符串可以用%q</span></span><br><span class="line">	fmt.Printf(<span class="string">&quot;%d,%q&quot;</span>, a, b)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
