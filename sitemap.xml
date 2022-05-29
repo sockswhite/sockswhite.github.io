@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sockswhite.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-05-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sockswhite.github.io/2022/05/22/Golang%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</loc>
     
     <lastmod>2022-05-29</lastmod>
@@ -11,18 +20,9 @@
   </url>
   
   <url>
-    <loc>https://sockswhite.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-05-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sockswhite.github.io/tags/index.html</loc>
     
-    <lastmod>2022-05-27</lastmod>
+    <lastmod>2022-05-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -54,7 +54,7 @@
 
   
   <url>
-    <loc>https://sockswhite.github.io/categories/Golang%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://sockswhite.github.io/categories/Go%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/</loc>
     <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
